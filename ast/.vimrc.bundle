@@ -1,0 +1,33 @@
+filetype off
+
+set rtp+=~/.vim/vundle.git/
+call vundle#rc()
+Bundle 'Shougo/neocomplete'
+Bundle 'Shougo/unite.vim'
+Bundle 'Shougo/neosnippet.vim'
+Bundle 'Shougo/neosnippet-snippets'
+Bundle 'thinca/vim-ref'
+Bundle 'thinca/vim-quickrun'
+Bundle 'basyura/TweetVim'
+Bundle 'mattn/webapi-vim'
+Bundle 'basyura/twibill.vim'
+Bundle 'tyru/open-browser.vim'
+Bundle 'h1mesuke/unite-outline'
+Bundle 'basyura/bitly.vim'
+Bundle 'scrooloose/nerdtree'
+Bundle 'LeafCage/yankround.vim'
+Bundle 'kien/ctrlp.vim'
+Bundle 'sgur/vim-operator-openbrowser'
+Bundle 'kana/vim-operator-user'
+Bundle 'tpope/vim-fugitive'
+Bundle 'wakatime/vim-wakatime'
+Bundle 'elixir-lang/vim-elixir'
+Bundle 'pangloss/vim-javascript'
+Bundle 'mattreduce/vim-mix'
+Bundle 'BjRo/vim-extest'
+Bundle 'tpope/vim-rails'
+Bundle 'fatih/vim-go'
+Bundle 'leafgarland/typescript-vim'
+" Bundle 'Townk/vim-autoclose'
+
+filetype plugin indent on "requierd!

@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;alias-type&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../go-kiriban" />
+      <root url="file://$PROJECT_DIR$/../../practice" />
+      <root url="file://$PROJECT_DIR$/../../mebae" />
+      <root url="file://$PROJECT_DIR$/../../go-daemon" />
+      <root url="file://$PROJECT_DIR$/../../bazil.org" />
+      <root url="file://$PROJECT_DIR$/../../gin-todo" />
+      <root url="file://$PROJECT_DIR$/../../gin-sandbox" />
+      <root url="file://$PROJECT_DIR$/../../pkg" />
+      <root url="file://$PROJECT_DIR$/../../cli-test" />
+      <root url="file://$PROJECT_DIR$/../../QStocker" />
+      <root url="file://$PROJECT_DIR$/../../torisetsu" />
+      <root url="file://$PROJECT_DIR$/../../gae-docker-deploy" />
+      <root url="file://$PROJECT_DIR$/../../golice" />
+      <root url="file://$PROJECT_DIR$/../../app" />
+      <root url="file://$PROJECT_DIR$/../../client" />
+      <root url="file://$PROJECT_DIR$/../../cellar" />
+      <root url="file://$PROJECT_DIR$/../../kirimori" />
+      <root url="file://$PROJECT_DIR$/../../techpo" />
+      <root url="file://$PROJECT_DIR$/../../programming-language-go" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../cancel-wakaru-kun-nigou" />
+      <root url="file://$PROJECT_DIR$/../../chat" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../go-kiriban" />
+      <root url="file://$PROJECT_DIR$/../../practice" />
+      <root url="file://$PROJECT_DIR$/../../mebae" />
+      <root url="file://$PROJECT_DIR$/../../go-daemon" />
+      <root url="file://$PROJECT_DIR$/../../bazil.org" />
+      <root url="file://$PROJECT_DIR$/../../gin-todo" />
+      <root url="file://$PROJECT_DIR$/../../gin-sandbox" />
+      <root url="file://$PROJECT_DIR$/../../pkg" />
+      <root url="file://$PROJECT_DIR$/../../cli-test" />
+      <root url="file://$PROJECT_DIR$/../../QStocker" />
+      <root url="file://$PROJECT_DIR$/../../torisetsu" />
+      <root url="file://$PROJECT_DIR$/../../gae-docker-deploy" />
+      <root url="file://$PROJECT_DIR$/../../golice" />
+      <root url="file://$PROJECT_DIR$/../../app" />
+      <root url="file://$PROJECT_DIR$/../../client" />
+      <root url="file://$PROJECT_DIR$/../../cellar" />
+      <root url="file://$PROJECT_DIR$/../../kirimori" />
+      <root url="file://$PROJECT_DIR$/../../techpo" />
+      <root url="file://$PROJECT_DIR$/../../programming-language-go" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../cancel-wakaru-kun-nigou" />
+      <root url="file://$PROJECT_DIR$/../../chat" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
